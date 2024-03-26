@@ -1,0 +1,9 @@
+Inserting the value n:
+
+Average Time Complexity: O(log n)
+Extracting the root node:
+
+Average Time Complexity: O(log n)
+Searching for a node in a binary heap of size n:
+
+Average Time Complexity: O(n)
